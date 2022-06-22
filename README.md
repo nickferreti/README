@@ -1,1 +1,1 @@
-# Apresentacao
+Prazer, me chamo Nickolas tenho 18 anos, trabalho como desenvolvedor fullstack na Olsen, desenvolvendo o projeto do sistema de gerenciamento de negocios da empresa. Tenho conhecimento nas seguintes Linguagens; Vue.js, javascript, laravel, PHP, sendo todas as linguagens sendo usadas de forma com conhecimento intermediario-alto. Pretendo começar a faculdade de ciência da computação para ampliar cada vez mais meus conhecimentos sobre as demais linguagens de programação e também sempre busco cursos sobre tecnologia sempre que possivel.
