@@ -8,7 +8,7 @@
 <p align="left">
   🦄 Linguagens: <strong>Javascript, Vue.js, PHP, HTML, CSS.</strong>
 </p>
-<p> https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white </p>
+<p> <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black></img> <img src=https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D></img> <img src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white></img> <img src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white></img> <img src=https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white></img> </p>
 
 <p align="left">
   💼 Ferramentas: <strong>Visual studio code e PHP storm.</strong>
