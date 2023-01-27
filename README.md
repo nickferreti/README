@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Prazer, me chamo Nickolas tenho atualmente 18 anos de idade, atualmente atuo na area como <strong>Desenvolvedor Fulstack</strong>.<br>
-  No momento estou trabalhando com vue.js e PHP, tenho o ensino medio completo junto com tecnico em desenvolvimento de sistemas pelo Senai, e pretendo futuramente iniciar a faculdade de ciências da computação.
+ Prazer, me chamo Nickolas tenho atualmente 18 anos de idade, atuei na area como <strong>Desenvolvedor Fulstack</strong>.<br>
+ Trabalhei com vue.js e PHP, tenho o ensino medio completo junto com tecnico em desenvolvimento de sistemas pelo Senai, e pretendo futuramente iniciar a faculdade de ciências da computação.
 </p>
 
 <p align="left">
