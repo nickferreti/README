@@ -5,5 +5,6 @@ A fun fact about me is in the past then i I didn't like programming even if they
 - 🔭 I'm currently learning python and ways to automatize tasks and how to transform these tasks in a easier way to deal, and in the future my plans are machine learning.
 - 🤝 I’m looking to collaborate on back-end projects and front-end if necessary, i can do anything basically, just explain me how the project work and i'll be collaborating as much i can to help you :).
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=nickferreti)
+![Nickolas GitHub stats](https://github-readme-stats.vercel.app/api?username=nickferreti&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickferreti)](https://github.com/nickferreti/github-readme-stats)
 
