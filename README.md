@@ -7,4 +7,3 @@ A fun fact about me is in the past then i I didn't like programming even if they
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=nickferreti)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Nickolas Ferreti/)
